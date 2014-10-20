@@ -1,0 +1,2 @@
+//>>built
+define({label1:"\ub370\ubaa8 \uc704\uc82f\uc785\ub2c8\ub2e4.",label2:"\uad6c\uc131 \uac00\ub2a5\ud569\ub2c8\ub2e4."});

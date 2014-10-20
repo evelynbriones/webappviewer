@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"K\u00e4ynnistyskuva",welcomeMessage:"Tervetuloa ArcGIS verkkosovellukseen!",licenceAgree:"Hyv\u00e4ksyn",licenceTerm:"ArcGIS verkkosovelluksen ehdot",labelContinue:"Jatka",errorString:"*Sinun on hyv\u00e4ksytt\u00e4v\u00e4 lisenssi, jotta voit jatkaa",_localized:{}}});

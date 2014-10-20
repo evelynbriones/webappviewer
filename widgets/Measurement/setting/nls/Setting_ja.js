@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"\u30c7\u30d5\u30a9\u30eb\u30c8\u306e\u9762\u7a4d\u5358\u4f4d",defaultLengthUnit:"\u30c7\u30d5\u30a9\u30eb\u30c8\u306e\u9577\u3055\u5358\u4f4d",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define(["dojo/_base/declare","dojo/Deferred"],function(f,d){return{promisifyGetValue:function(b){var e=b.getValue;b.getValue=function(){var a=e.apply(b);if(null!==a&&a.then)return a;var c=new d;c.resolve(a);return c}}}});

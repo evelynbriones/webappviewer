@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"Splash",welcomeMessage:"Welcome to ArcGIS Web Application!",licenceAgree:"I agree to",licenceTerm:"ArcGIS Web Application Terms",labelContinue:"Continue",errorString:"* You need to agree to the licence to continue.",_localized:{}}});

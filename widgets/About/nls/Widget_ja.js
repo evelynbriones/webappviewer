@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/About/nls/strings":{_widgetLabel:"\u60c5\u5831",appName:"ArcGIS Web \u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3",ok:"OK",version:"\u30d0\u30fc\u30b8\u30e7\u30f3",_localized:{}}});

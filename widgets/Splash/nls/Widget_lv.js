@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"Uzplaiksn\u012bjums",welcomeMessage:"Esiet sveicin\u0101ts ArcGIS t\u012bmek\u013ca lietojumprogramm\u0101!",licenceAgree:"Piekr\u012btu",licenceTerm:"ArcGIS t\u012bmek\u013ca lietojumprogrammas noteikumi",labelContinue:"Turpin\u0101t",errorString:"* Lai turpin\u0101tu, ir j\u0101piekr\u012bt licences noteikumiem.",_localized:{}}});

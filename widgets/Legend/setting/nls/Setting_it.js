@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"LEFT",right:"RIGHT",arrangement:"Disposizione",autoUpdate:"Aggiornamento automatico",respectCurrentMapScale:"Rispetta scala mappa corrente",_localized:{}}});

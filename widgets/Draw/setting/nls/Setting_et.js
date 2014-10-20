@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Draw/setting/nls/strings":{addDistance:"Lisa vahemaa \u00fchik",addArea:"Lisa pindala \u00fchik",label:"M\u00e4rgis",abbr:"L\u00fchend",conversion:"Teisendus",actions:"Tegevused",areaUnits:"Pindala\u00fchikud",distanceUnits:"Vahemaa \u00fchikud",kilometers:"Kilomeetrit",miles:"Miili",meters:"Meetrit",feet:"Jalga",yards:"Jardi",squareKilometers:"Ruutkilomeetrit",squareMiles:"Ruutmiili",acres:"Aakrit",hectares:"Hektarit",squareMeters:"Ruutmeetrit",squareFeet:"Ruutjalga",squareYards:"Ruutjardi",
+distance:"Vahemaad",area:"Pindalad",_localized:{}}});

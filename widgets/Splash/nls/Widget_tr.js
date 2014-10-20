@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"S\u0131\u00e7ratma",welcomeMessage:"ArcGIS Web Uygulamas\u0131na Ho\u015f Geldiniz!",licenceAgree:"\u015eunu kabul ediyorum",licenceTerm:"ArcGIS Web Uygulamas\u0131 Ko\u015fullar\u0131",labelContinue:"Devam",errorString:"* Devam edebilmek i\u00e7in lisans\u0131 kabul etmelisiniz.",_localized:{}}});

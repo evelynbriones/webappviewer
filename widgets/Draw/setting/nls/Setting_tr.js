@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Draw/setting/nls/strings":{addDistance:"Uzunluk Birimi Ekle",addArea:"Alan Birimi Ekle",label:"Etiket",abbr:"K\u0131saltma",conversion:"D\u00f6n\u00fc\u015f\u00fcm",actions:"\u0130\u015flemler",areaUnits:"Alan Birimi",distanceUnits:"Uzunluk Birimleri",kilometers:"Kilometre",miles:"Mil",meters:"Metre",feet:"Fit",yards:"Yarda",squareKilometers:"Kilometre kare",squareMiles:"Mil kare",acres:"\u0130ngiliz D\u00f6n\u00fcm\u00fc",hectares:"Hektar",squareMeters:"Metre kare",squareFeet:"Feet kare",
+squareYards:"Yarda kare",distance:"Mesafeler",area:"Alanlar",_localized:{}}});

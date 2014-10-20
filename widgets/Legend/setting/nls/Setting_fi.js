@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"LEFT",right:"RIGHT",arrangement:"Asettelu",autoUpdate:"Automaattinen p\u00e4ivitys",respectCurrentMapScale:"Nykyisen kartan mittakaavan suhteessa",_localized:{}}});

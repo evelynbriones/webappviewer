@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"Abertura inicial",welcomeMessage:"Bem-vindo a ArcGIS Web Application!",licenceAgree:"Concordo com",licenceTerm:"os termos da ArcGIS Web Application",labelContinue:"Continuar",errorString:"* \u00c9 necess\u00e1rio que concorde com a licen\u00e7a para proceder.",_localized:{}}});

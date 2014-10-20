@@ -1,0 +1,2 @@
+//>>built
+define(["dojo","dijit","dojox"],function(a,b,c){window.FileAPI={debug:!1,flash:!0,staticPath:"libs/polyfills/fileAPI/",flashUrl:"libs/polyfills/fileAPI/FileAPI.flash.swf",flashImageUrl:"libs/polyfills/fileAPI/FileAPI.flash.image.swf"}});

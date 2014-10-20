@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Directions/setting/nls/strings":{routeUrl:"Rute-URL",locatorUrl:"Geokoder-URL",geocoderOptions:"Geokoderalternativer",autoComplete:"Autofullf\u00f8r",maxLocations:"Maks. lokasjoner",minCharacters:"Min. tegn",searchDelay:"S\u00f8keforsinkelse",placeholder:"Plassholder",routeOptions:"Rutealternativer",directionsLanguage:"Spr\u00e5k for forklaringer",directionsLengthUnits:"Lengdeenheter for forklaringer",directionsOutputType:"Resultattype for forklaringer",impedanceAttribute:"Impedansattributt",
+kilometers:"Kilometer",miles:"Miles",meters:"Meter",feet:"Fot",yards:"Yards",nauticalMiles:"Nautiske mil",parametersTip:"Angi parametrene riktig!",_localized:{}}});

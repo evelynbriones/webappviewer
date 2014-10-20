@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Directions/setting/nls/strings":{routeUrl:"Rute-URL",locatorUrl:"Geokodnings-URL",geocoderOptions:"Indstillinger for geokodning",autoComplete:"F\u00e6rdigg\u00f8r automatisk",maxLocations:"Maks. antal steder",minCharacters:"Min. antal tegn",searchDelay:"S\u00f8geforsinkelse",placeholder:"Pladsholder",routeOptions:"Indstillinger for rute",directionsLanguage:"Sprog til k\u00f8rselsvejledninger",directionsLengthUnits:"L\u00e6ngdeenheder til k\u00f8rselsvejledninger",directionsOutputType:"Outputtype til k\u00f8rselsvejledninger",
+impedanceAttribute:"Impedansattribut",kilometers:"Kilometer",miles:"Miles",meters:"Meter",feet:"Fod",yards:"Yards",nauticalMiles:"S\u00f8mil",parametersTip:"Angiv parametrene korrekt!",_localized:{}}});

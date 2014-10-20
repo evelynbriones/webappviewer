@@ -1,0 +1,2 @@
+//>>built
+define(["dojo","dijit","dojox"],function(g,h,k){Function.prototype.bind=function(){var b=Array.prototype.slice;return function(d){if("function"!==typeof this)throw new TypeError("Function.prototype.bind - what is trying to be fBound is not callable");var e=b.call(arguments,1),f=this,a=function(){},c=function(){return f.apply(this instanceof a?this:d||window,e.concat(b.call(arguments)))};a.prototype=this.prototype;c.prototype=new a;return c}}()});

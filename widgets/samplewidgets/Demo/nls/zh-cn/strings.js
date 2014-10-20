@@ -1,0 +1,2 @@
+//>>built
+define({label1:"\u8fd9\u662f\u6f14\u793a\u5fae\u4ef6\u3002",label2:"\u53ef\u8fdb\u884c\u914d\u7f6e\u3002"});

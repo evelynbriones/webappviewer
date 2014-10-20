@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Directions/setting/nls/strings":{routeUrl:"Rutt-URL",locatorUrl:"Geokodarens URL",geocoderOptions:"Alternativ f\u00f6r geokodare",autoComplete:"Slutf\u00f6r automatiskt",maxLocations:"Max platser",minCharacters:"Minsta antal tecken",searchDelay:"S\u00f6kf\u00f6rdr\u00f6jning",placeholder:"Platsh\u00e5llare",routeOptions:"Ruttalternativ",directionsLanguage:"Spr\u00e5k f\u00f6r beskrivningar",directionsLengthUnits:"L\u00e4ngdenheter f\u00f6r beskrivningar",directionsOutputType:"Utdatatyp f\u00f6r beskrivningar",
+impedanceAttribute:"Impedansattribut",kilometers:"Kilometer",miles:"Engelska mil",meters:"Meter",feet:"Fot",yards:"Yard",nauticalMiles:"Nautiska mil",parametersTip:"Ange parametrarna korrekt!",_localized:{}}});

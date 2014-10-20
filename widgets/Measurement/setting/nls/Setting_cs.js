@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"V\u00fdchoz\u00ed plo\u0161n\u00e1 jednotka",defaultLengthUnit:"V\u00fdchoz\u00ed d\u00e9lkov\u00e1 jednotka",_localized:{}}});

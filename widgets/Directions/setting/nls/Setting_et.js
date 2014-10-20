@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Directions/setting/nls/strings":{routeUrl:"Marsruudi URL",locatorUrl:"Geokodeerija URL",geocoderOptions:"Geokodeerija valikud",autoComplete:"T\u00e4ida automaatselt",maxLocations:"Maksimaalne arv asukohti",minCharacters:"Minimaalne arv t\u00e4hem\u00e4rke",searchDelay:"Otsingu viivitus",placeholder:"Kohat\u00e4ide",routeOptions:"Marsruudi valikud",directionsLanguage:"Teejuhiste keel",directionsLengthUnits:"Teejuhiste pikkus\u00fchikud",directionsOutputType:"Teejuhiste v\u00e4ljundi t\u00fc\u00fcp",
+impedanceAttribute:"Takistuse atribuut",kilometers:"Kilomeetrit",miles:"Miili",meters:"Meetrit",feet:"Jalga",yards:"Jardi",nauticalMiles:"Meremiili",parametersTip:"M\u00e4\u00e4rake parameetrid \u00f5igesti!",_localized:{}}});

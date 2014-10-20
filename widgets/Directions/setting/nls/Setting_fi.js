@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Directions/setting/nls/strings":{routeUrl:"Reitin URL-osoite",locatorUrl:"Geokooderin URL-osoite",geocoderOptions:"Geokooderin vaihtoehdot",autoComplete:"Automaattinen t\u00e4ydennys",maxLocations:"Maksimi sijainnit",minCharacters:"Minimi merkit",searchDelay:"Haku viiv\u00e4styy",placeholder:"Paikkamerkki",routeOptions:"Reittivaihtoehdot",directionsLanguage:"Ohjeiden kieli",directionsLengthUnits:"Ohjeiden pituusyksik\u00f6t",directionsOutputType:"Ohjeiden tulosaineiston tyyppi",impedanceAttribute:"Impedanssin ominaisuus",
+kilometers:"Kilometri\u00e4",miles:"Mailia",meters:"Metri\u00e4",feet:"Jalkaa",yards:"Jaardia",nauticalMiles:"Meripeninkulmaa",parametersTip:"M\u00e4\u00e4rit\u00e4 parametrit oikein.",_localized:{}}});

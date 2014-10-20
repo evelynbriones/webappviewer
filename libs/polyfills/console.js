@@ -1,0 +1,2 @@
+//>>built
+define(["dojo","dijit","dojox"],function(k,l,m){(function(c){try{var a,b,f={},g=function(){},d=["memory"],e="assert clear count debug dir dirxml error exception group groupCollapsed groupEnd info log markTimeline profile profileEnd table time timeEnd timeStamp trace warn".split(" ");for(a=d.pop();a;)c[a]=c[a]||f,a=d.pop();for(b=e.pop();b;)c[b]=c[b]||g,b=e.pop()}catch(h){alert(h)}})(this.console||(window.console={}))});

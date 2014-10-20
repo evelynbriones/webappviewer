@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/About/nls/strings":{_widgetLabel:"\u0646\u0628\u0630\u0629 \u0639\u0646",appName:"\u062a\u0637\u0628\u064a\u0642 ArcGIS \u0639\u0644\u0649 \u0627\u0644\u0648\u064a\u0628",ok:"\u0645\u0648\u0627\u0641\u0642",version:"\u0625\u0635\u062f\u0627\u0631",_localized:{}}});

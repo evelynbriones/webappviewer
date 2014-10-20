@@ -1,0 +1,3 @@
+//>>built
+define("dojo/_base/declare dojo/_base/lang dojo/_base/html dojo/_base/array dojo/on dojo/query jimu/BaseWidgetPanel jimu/BaseWidgetFrame jimu/utils ./TabWidgetFrame".split(" "),function(c,h,d,k,l,e,f,m,n,g){return c([f],{baseClass:"jimu-widget-panel jimu-tab-panel jimu-main-bgcolor",createFrame:function(a){a=new g({label:a.label});this._setFrameSize(a);return a},_setFrameSize:function(a){var b=100*(1/(this.getChildren().length+1));e(".tab-widget-frame",this.containerNode).style("height",b+"%");d.setStyle(a.domNode,
+"height",b+"%")}})});
